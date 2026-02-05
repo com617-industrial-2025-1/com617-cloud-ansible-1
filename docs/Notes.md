@@ -17,3 +17,5 @@
 15. Automatic software upgrade.
 16. Components OpenNMS, MQQT plugin, minion, postgress, grafana, ansible, ansible semaphore, possibly portainer, lets encrypt.
 17. onboarding/upgrade process
+18. npde red mqtt examples https://github.com/gallenc/opennms-examples-tutorials-2/tree/main/workup/opennms-node-red-3
+19. 
